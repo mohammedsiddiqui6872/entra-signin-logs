@@ -7,7 +7,7 @@
     Results can be exported to CSV for further analysis.
 
 .NOTES
-    Author  : Mohammed Siddiqui
+    Author  : Mohammed Siddiqui 
     GitHub  : https://github.com/mohammedsiddiqui6872/Entra-Signin-logs
     Date    : 2025-05-11
     Version : 1.0
